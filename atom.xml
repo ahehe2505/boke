@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ahehe2505.github.io/boke/</id>
     <title>Gridea</title>
-    <updated>2020-05-03T01:35:40.893Z</updated>
+    <updated>2020-05-03T01:36:24.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ahehe2505.github.io/boke/"/>
     <link rel="self" href="https://ahehe2505.github.io/boke/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://ahehe2505.github.io/boke/images/avatar.png</logo>
     <icon>https://ahehe2505.github.io/boke/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[每周一题--物理]]></title>
+        <id>https://ahehe2505.github.io/boke/post/mei-zhou-yi-ti-wu-li/</id>
+        <link href="https://ahehe2505.github.io/boke/post/mei-zhou-yi-ti-wu-li/">
+        </link>
+        <updated>2020-05-03T01:35:57.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="举一">举一</h1>
+<h2 id="原题">原题</h2>
+<div class="pt1">（<num>2012</num>泰安）小明和小亮在操场上玩耍时发现水平抛出的几个物体落地时间有差异，善于观察的他们想水平抛出的物体的这个“落地时间”与什么因素有关呢？思考讨论后他们提出了如下猜想：<br>猜想一：与抛出物体的质量有关；<br>猜想二：与水平抛出的速度有关；<br>猜想三：与水平抛出点的离地高度有关．为了验证以上猜想，他们从探究实验室借来能控制发射速度的弹射器、两个质量不同的小钢球、刻度尺、电子停表等实验器材，依照物理学习中的科学方法，在老师的帮助下按照如图所示的方法进行了实验探究，得到如下表所示的实验数据．<br>
+<img src="http://image.tigu.cn/pic/cpic/2/2000/20005087-1.png" height="200" width="179" class="list_image">
+<table class="edittable"><tbody><tr><td width="46px">实验序号  </td><td width="85px">钢球质量<em>m</em>/<em>kg  </em></td><td width="93px">抛出点离地高度<em>h</em>/<em>m  </em></td><td width="93px">水平抛出的速度<em>v</em>/（<em>m</em>/<em>s</em>）  </td><td width="89px">落地时间<em>t</em>/<em>s  </em></td><td width="117px">落地点与抛出点的水平距离<em>x</em>/<em>m  </em></td></tr><tr><td width="46px"><num>1  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>1  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>0.64  </num></td></tr><tr><td width="46px"><num>2  </num></td><td width="85px"><num>20  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>1  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>0.64  </num></td></tr><tr><td width="46px"><num>3  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>2  </num></td><td width="93px"><num>2  </num></td><td width="89px"><num>0.64  </num></td><td width="117px"><num>1.28  </num></td></tr><tr><td width="46px"><num>4  </num></td><td width="85px"><num>10  </num></td><td width="93px"><num>4  </num></td><td width="93px"><num>2  </num></td><td width="89px"><num>0.91  </num></td><td width="117px"><num>1.82  </num></td></tr></tbody></table>请你通过分析回答以下问题：<br>（<num>1</num>）为了验证猜想一，应选用实验序号为________的两组数据进行对比分析．<br>（<num>2</num>）为了验证猜想二，应选用实验序号为________的两组数据进行对比分析．<br>（<num>3</num>）为了验证猜想三，应选用实验序号为________的两组数据进行对比分析．<br>（<num>4</num>）可以得出实验结论：水平抛出的钢球的落地时间与________有关，与________无关．同时还可得出“落地点与抛出点的水平距离与________和________有关”的实验结论．</div>
+<h2 id="思路">思路</h2>
+<p>1）要验证猜想一：与抛出物体的质量有关，应控制水平抛出速度与抛出点离地的高度相同，据此找出满足要求的实验序号；<br>
+2）为了验证猜想二：与水平抛出的速度有关，要控制抛出钢球的质量与抛出点离地的高度相同，据此找出满足要求的实验序号；<br>
+3）为了验证猜想三：与水平抛出点的离地高度有关，要控制抛出钢球的质量与抛出钢球的速度相同，据此找出满足要求的实验序号；<br>
+4）分析表中数据找出影响钢球运动时间的因素、影响钢球水平运动距离的因素．</p>
+<h2 id="解析">解析</h2>
+<p>1）由表中数据知1、2两组实验数据的水平抛出速度与抛出点离地的高度相同，用1、2两组数据可以验证猜想一；<br>
+2）由表中数据可知1、3两组实验数据钢球的质量与抛出点离地的高度相同，用1、3两组数据可以验证猜想二；<br>
+3）由表中数据可知3、4两组数据抛出钢球的质量与抛出钢球的速度相同，利用3、4两组数据可以验证猜想三；<br>
+4）由表中1、4（或2、4，或3、4）两组实验数据可知：水平抛出的钢球落地时间与抛出点的高度有关；<br>
+由1、2两组数据知：水平抛出的钢球落地时间与抛出钢球的质量无关；<br>
+由2、3两组数据知：水平抛出的钢球落地时间与抛出钢球的水平抛出速度无关；<br>
+由1、3、4（或2、3、4）三组实验数据可知：落地点与抛出点的水平距离与水平抛出的速度和抛出点离地高度有关；</p>
+<h2 id="答案">答案</h2>
+<p>（1）1、2；（2）1、3；（3）3、4；（4）抛出点高度；抛出钢球的质量；水平抛出的速度；水平抛出的速度；抛出点离地高度．</p>
+<h2 id="总结">总结</h2>
+<p>本题是一道实验探究题，认真分析表中数据、会应用控制变量法是正确解题的关键．</p>
+<h1 id="反三">反三</h1>
+<div class="pt1"><strong>“希望”中学的物理兴趣小组探究“水平抛出的小球从抛出到落地的时间与哪些因素有关”．大家经过讨论，提出了以下猜想．猜想一：小球从抛出到落地的时间可能与小球的质量有关；猜想二：小球从抛出到落地的时间可能与小球水平射出速度有关；猜想三：小球从抛出到落地的时间可能与小球的下落高度有关．为了检验上述猜想是否正确，他们找来精密计时器、一个可将小球以任意所需速度射出的弹射器，并将弹射器水平固定在铁架台上，得到以下数据：</strong><table class="edittable"><tbody><tr><td width="63px">   实验序号  </td><td width="98px">   小球质量<big>m</big>／<big>g  </big></td><td width="98px">   水平射出速度<big>v</big>／（<big>m</big>·<big>s</big><sup>－<small>1</small></sup>）  </td><td width="84px">   小球下落高度<big>h</big>／<big>m  </big></td><td width="111px">   从抛出到落地的时间<big>t</big>／<big>s  </big></td></tr><tr><td width="63px">   <small>1  </small></td><td width="98px">   <small>10  </small></td><td width="98px">   <small>0.5  </small></td><td width="84px">   <small>1.5  </small></td><td width="111px">   <small>0.55  </small></td></tr><tr><td width="63px">   <small>2  </small></td><td width="98px">   <small>10  </small></td><td width="98px">   <small>1.0  </small></td><td width="84px">   <small>1.0  </small></td><td width="111px">   <small>0.45  </small></td></tr><tr><td width="63px">   <small>3  </small></td><td width="98px">   <small>10  </small></td><td width="98px">   <small>1.5  </small></td><td width="84px">   <small>1.5  </small></td><td width="111px">   <small>0.55  </small></td></tr><tr><td width="63px">   <small>4  </small></td><td width="98px">   <small>10  </small></td><td width="98px">   <small>1.0  </small></td><td width="84px">   <small>1.5  </small></td><td width="111px">   <small>0.55  </small></td></tr><tr><td width="63px">   <small>5  </small></td><td width="98px">   <small>20  </small></td><td width="98px">   <small>1.0  </small></td><td width="84px">   <small>1.0  </small></td><td width="111px">   <small>0.45  </small></td></tr><tr><td width="63px">   <small>6  </small></td><td width="98px">   <small>30  </small></td><td width="98px">   <small>1.0  </small></td><td width="84px">   <small>1.0  </small></td><td width="111px">   <small>0.45  </small></td></tr><tr><td width="63px">   <small>7  </small></td><td width="98px">   <small>10  </small></td><td width="98px">   <small>1.0  </small></td><td width="84px">   <small>2.0  </small></td><td width="111px">   <small>0.64  </small></td></tr></tbody></table><strong>请你通过分析，回答下列问题：<br>（<small>1</small>）为验证猜想一，应选用实验序号为________的对比实验组；为验证猜想二，应选用实验序号为________的对比实验组；为验证猜想三，应选用实验序号为________的对比实验组；<br>（<small>2</small>）实验结论：小球从抛出到落地的时间可能与________有关；<br>（<small>3</small>）在本实验中主要用到的研究方法是控制变量法，课本上所涉及的实验中，有些实验的研究方法与上述方法类似．请写出其中一个实验的名称：________．</strong></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中考数学]]></title>
         <id>https://ahehe2505.github.io/boke/post/zhong-kao-shu-xue/</id>
